@@ -21,7 +21,7 @@ opennet_question_3/
 
 ## Installation and Setup
 
-### Option 1: Running with Docker Compose (Recommended)
+### Running with Docker Compose (Recommended)
 
 1. Clone the repository:
 ```bash
@@ -35,6 +35,9 @@ docker-compose up --build
 ```
 
 The API will be available at `http://localhost:8080`
+
+![Kapture 2025-02-16 at 16 14 40](https://github.com/user-attachments/assets/f48ebbb2-dc74-4775-abc9-147cc7ba0f74)
+
 
 ## API Documentation
 
